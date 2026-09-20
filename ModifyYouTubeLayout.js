@@ -2,7 +2,7 @@
 // @name Modify YouTube Homepage Layout + Modify YouTube WatchPage Layout
 // @name:zh-CN YouTube首页视频布局优化 + 播放页布局优化
 // @namespace http://tampermonkey.net/
-// @version 1.2
+// @version 1.4
 // @description WatchPage Center Comments & Enlarge Font Size, Reduce width of Suggested Videos. Modify YouTube Homepage Layout, Show more video cards on Homepage
 // @description:zh-CN 首页视频卡片自适应缩放最多5列 视频页评论居中放大，缩小右侧推荐视频宽度。
 // @author You
@@ -10,6 +10,8 @@
 // @grant GM_addStyle
 // @run-at document-start
 // @license MIT
+// @downloadURL https://update.greasyfork.org/scripts/596643/Modify%20YouTube%20Homepage%20Layout%20%2B%20Modify%20YouTube%20WatchPage%20Layout.user.js
+// @updateURL https://update.greasyfork.org/scripts/596643/Modify%20YouTube%20Homepage%20Layout%20%2B%20Modify%20YouTube%20WatchPage%20Layout.user.js
 // ==/UserScript==
 (function() {
     'use strict';
